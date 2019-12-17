@@ -4,4 +4,5 @@
 # Pushした時にconglictが起こるのは必然です。
 # Hi Hiroya! What did you eat for your breakfast?
 # My best song in 2019 is "Pretender"
+# Do you have a girlfriend?
 # Have a nice day!
